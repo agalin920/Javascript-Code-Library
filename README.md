@@ -1,2 +1,2 @@
-# Javascript-Code-Library
+# javascript-programs
 My library for javascript code
